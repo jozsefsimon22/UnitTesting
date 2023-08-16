@@ -1,0 +1,15 @@
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/bin/Debug/net7.0/ServiceContracts.deps.json
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/bin/Debug/net7.0/ServiceContracts.dll
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/bin/Debug/net7.0/ServiceContracts.pdb
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/bin/Debug/net7.0/Entities.dll
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/bin/Debug/net7.0/Entities.pdb
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ServiceContracts.AssemblyInfo.cs
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ServiceContracts.csproj.CopyComplete
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ServiceContracts.dll
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/refint/ServiceContracts.dll
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ServiceContracts.pdb
+/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/Debug/net7.0/ref/ServiceContracts.dll
