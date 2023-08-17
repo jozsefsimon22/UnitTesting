@@ -13,7 +13,7 @@ public class CountryAddRequest
         {
             return new Country()
             {
-                CountryName = CountryName
+                CountryName = CountryName,
             };
         }
     }
