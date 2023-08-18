@@ -1,19 +1,19 @@
-using Entities;
+﻿using Entities;
 
-namespace ServicesContracts.DTO;
+namespace ServiceContracts.DTO;
 
+/// <summary>
+/// DTO class for adding a new country
+/// </summary>
 public class CountryAddRequest
 {
-    /// <summary>
-    /// DTO class for adding a new country
-    /// </summary>
     public string? CountryName { get; set; }
 
-        public Country ToCountry()
+    public Country ToCountry()
+    {
+        return new Country()
         {
-            return new Country()
-            {
-                CountryName = CountryName,
-            };
-        }
+            CountryName = this.CountryName
+        };
     }
+}

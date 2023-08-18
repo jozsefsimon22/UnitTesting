@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tHarYAJ3tpGXLBWTnB4n7OMS1WjIBT9Skxz1YekEVnelbBx2x1l7ibNqd4vvwnU+RuLZXpX4jJgrccBv23M+iA==",
+  "dgSpecHash": "0p2PY3cYMlUgo6K4whDkDgZHo0pfIX1bpttBPp64+BxDI1O1DviqIBI278PbUdX5GW4Bxk1ezgsVDtk8zal+qQ==",
   "success": true,
-  "projectFilePath": "/Users/jozsefsimon/RiderProjects/CRUDExample/Entities/Entities.csproj",
+  "projectFilePath": "C:\\GIT - Azure Training\\CRUDExample\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

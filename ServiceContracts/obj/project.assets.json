@@ -27,33 +27,35 @@
     ]
   },
   "packageFolders": {
-    "/Users/jozsefsimon/.nuget/packages/": {}
+    "C:\\Users\\JozsefSimon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/ServiceContracts.csproj",
+      "projectUniqueName": "C:\\GIT - Azure Training\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj",
       "projectName": "ServiceContracts",
-      "projectPath": "/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/ServiceContracts.csproj",
-      "packagesPath": "/Users/jozsefsimon/.nuget/packages/",
-      "outputPath": "/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/obj/",
+      "projectPath": "C:\\GIT - Azure Training\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj",
+      "packagesPath": "C:\\Users\\JozsefSimon\\.nuget\\packages\\",
+      "outputPath": "C:\\GIT - Azure Training\\CRUDExample\\ServiceContracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jozsefsimon/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\JozsefSimon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/SquareBook/SBPlatform/_packaging/SquarebookInternal/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/jozsefsimon/RiderProjects/CRUDExample/Entities/Entities.csproj": {
-              "projectPath": "/Users/jozsefsimon/RiderProjects/CRUDExample/Entities/Entities.csproj"
+            "C:\\GIT - Azure Training\\CRUDExample\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\GIT - Azure Training\\CRUDExample\\Entities\\Entities.csproj"
             }
           }
         }
@@ -83,7 +85,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

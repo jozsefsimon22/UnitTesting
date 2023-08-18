@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ixIJsXyTiSVnSrMHGwVt4cENs+PBui0ZbaOEVNVtxLlLEaJ7zP/b2h0HAefQOxt7+IEOnoU7qmK2F6uGht4vCg==",
+  "dgSpecHash": "izp/Dj3Wv3KnBqfajDYDDuQ4XB/dRD6Og76ibmBn6nUo2t6HHbIfInMFI7PbA1EyvcUifdwhUoHn8Eu/1wZx2g==",
   "success": true,
-  "projectFilePath": "/Users/jozsefsimon/RiderProjects/CRUDExample/ServiceContracts/ServiceContracts.csproj",
+  "projectFilePath": "C:\\GIT - Azure Training\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
