@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0eTqszoqmYoK+s5552zKKra9bsyGb8XvYvm/wgmtuF5GiJ712rLTgPvCGuIxmuQrTP4beBMsJBnLY+2qSXGbYA==",
+  "dgSpecHash": "vaBjJcINlNqRVD7pJjeyvO7eWMl1pT0dWN76KCAHBLn/nVdQIg+AwC61gO+IX379oNVF3Neyxj+OMVbcokeOGg==",
   "success": true,
-  "projectFilePath": "/Users/jozsefsimon/RiderProjects/CRUDExample/Services/Services.csproj",
+  "projectFilePath": "C:\\GIT - Azure Training\\CRUDExample\\Services\\Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

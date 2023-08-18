@@ -1,15 +1,32 @@
-using Entities;
+﻿using Entities;
 
-namespace ServicesContracts.DTO;
+namespace ServiceContracts.DTO;
 
+/// <summary>
+/// DTO class that is used as return type for most of CountriesService methods
+/// </summary>
 public class CountryResponse
 {
-    /// <summary>
-    /// DTO class that is used as return type for most of CountriesService methods
-    /// </summary>
     public Guid CountryId { get; set; }
-
     public string? CountryName { get; set; }
+
+
+    public override bool Equals(object? obj)
+    {
+        if (obj == null)
+        {
+            return false;
+        }
+
+        if (obj.GetType() != typeof(CountryResponse))
+        {
+            return false;
+        }
+
+        CountryResponse countryToCompare = (CountryResponse)obj;
+
+        return this.CountryId == countryToCompare.CountryId && this.CountryName == countryToCompare.CountryName;
+    }
 }
 
 public static class CountryExtensions
@@ -18,8 +35,8 @@ public static class CountryExtensions
     {
         return new CountryResponse()
         {
-            CountryId = country.CountryId, CountryName = country.CountryName
+            CountryId = country.CountryId,
+            CountryName = country.CountryName
         };
     }
 }
-

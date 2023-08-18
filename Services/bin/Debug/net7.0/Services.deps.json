@@ -8,17 +8,10 @@
     ".NETCoreApp,Version=v7.0": {
       "Services/1.0.0": {
         "dependencies": {
-          "CRUDExample": "1.0.0",
-          "Entities": "1.0.0",
           "ServiceContracts": "1.0.0"
         },
         "runtime": {
           "Services.dll": {}
-        }
-      },
-      "CRUDExample/1.0.0": {
-        "runtime": {
-          "CRUDExample.dll": {}
         }
       },
       "Entities/1.0.0": {
@@ -38,11 +31,6 @@
   },
   "libraries": {
     "Services/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CRUDExample/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
